@@ -20,7 +20,7 @@ Under this project we were given a credit card dataset for 30000 customers, whic
 
 ## Final Project
 <b>Created a Web Application for Flight Price Prediction</b><br>
-Under this project we were given a Flight Users Data, which contained the past 1 Year Flight history of customers. Our task was to Created a Web Application and also have to deployed.So we deployed our project on heroku.<b><br/>
+Under this project we were given a Flight Users Data, which contained the past 1 Year Flight history of customers. Our task was to Created a Web Application and the project had deployed on heroku.<b><br/>
 <b>More : [CLICK HERE](https://github.com/rohitsahu70/DATA-SCIENCE-INTERN-AT-LGMVIP/tree/main/Flight%20Price%20Prediction)<b><br/>
 Deployed Link of Web App  :[CLICK HERE](https://flight-price-prediction-api.herokuapp.com/)
   
