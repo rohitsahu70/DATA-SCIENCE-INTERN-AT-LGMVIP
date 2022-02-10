@@ -27,7 +27,8 @@ Deployed Link of Web App  :[CLICK HERE](https://flight-price-prediction-api.hero
   
 ## Live Demo of Final Project
 
-
+https://user-images.githubusercontent.com/89459208/153446812-a8c63129-06ce-4b6b-9b1a-6f0c93a0ba7f.mp4
+  
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
 </div>
