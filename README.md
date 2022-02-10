@@ -9,7 +9,9 @@ Under this project we had to perform Exploratory Data Analysis on Dr. Semmelweis
 <b>More : [CLICK HERE](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)<b>
 
 ## Mini Project 2
-
+<b>Churn Analysis on Betting App  of almost 150k users</b><br>
+Under this project we had to perform Churn Analysis on Betting App Data and Prepare a [PDF](https://github.com/rohitsahu70/DATA-SCIENCE-INTERN-AT-LGMVIP/blob/main/CHURN%20ANALYSIS/churnAnalsisBigBash.pdf) on visualisation of data and had to give conclusion on the basis of data.<b><br/>
+<b>More : [CLICK HERE](https://github.com/rohitsahu70/DATA-SCIENCE-INTERN-AT-LGMVIP/tree/main/CHURN%20ANALYSIS)<b>
 
 ## Mini Project 4
 
